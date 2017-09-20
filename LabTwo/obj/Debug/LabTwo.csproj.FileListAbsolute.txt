@@ -1,0 +1,6 @@
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabTwo\LabTwo\bin\Debug\LabTwo.exe.config
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabTwo\LabTwo\bin\Debug\LabTwo.exe
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabTwo\LabTwo\bin\Debug\LabTwo.pdb
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabTwo\LabTwo\obj\Debug\LabTwo.csprojResolveAssemblyReference.cache
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabTwo\LabTwo\obj\Debug\LabTwo.exe
+c:\users\lorei_000\documents\visual studio 2017\Projects\LabTwo\LabTwo\obj\Debug\LabTwo.pdb
